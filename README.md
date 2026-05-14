@@ -1,4 +1,4 @@
-# NoteBot — AI-Powered Study Assistant
+# NoteBot - AI-Powered Study Assistant
 
 NoteBot is a RAG (Retrieval-Augmented Generation) chatbot that lets you upload your study PDFs and ask questions about them in natural language. Built with LangChain, Groq LLMs, HuggingFace Embeddings, and Streamlit.
 
@@ -7,7 +7,7 @@ NoteBot is a RAG (Retrieval-Augmented Generation) chatbot that lets you upload y
 ![LangChain](https://img.shields.io/badge/LangChain-0.3+-green)
 
 ## Live Demo
-[Click here to try NoteBot](https://your-app-link.streamlit.app) ← replace after deploying
+[Click here to try NoteBot](https://notebott.streamlit.app) 
 
 ---
 
