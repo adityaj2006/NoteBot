@@ -7,7 +7,7 @@ NoteBot is a RAG (Retrieval-Augmented Generation) chatbot that lets you upload y
 ![LangChain](https://img.shields.io/badge/LangChain-0.3+-green)
 
 ## Live Demo
-[Click here to try NoteBot](https://notebott.streamlit.app) 
+[Click here to try NoteBot](https://note-bot.streamlit.app) 
 
 ---
 
